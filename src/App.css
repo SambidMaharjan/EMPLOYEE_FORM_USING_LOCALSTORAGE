@@ -1,0 +1,17 @@
+.formWrapper {
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.tableWrapper {
+    text-align: center;
+    margin: 0 auto;
+    width: 900px;
+}
+
+.tableWrapper button,
+.formWrapper button {
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
